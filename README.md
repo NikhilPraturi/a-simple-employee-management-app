@@ -1,5 +1,5 @@
 #This is a simple employee management app#
-##To run the app on a localhost and test form your browser:##
+##To run the app on a localhost and test from your browser:##
 - In eclipse Java EE, create a Dynamic Web Project, choose Apache Tomcat as the runtime target (you might need to download Apache Tomcat first)
 - Make sure the directory is structured as this repository (you might need to download postgreSQL first)
 - Then in psql shell copy paste commands in cmd.sql file to create the database
